@@ -1,13 +1,13 @@
-*{
+* {
     background-color: red;
 }
 
-<<<<<<< HEAD
-*{
+* {
     background-color: blue;
-=======
+
+}
+
 body {
     cursor: pointer;
     background-color: brown;
->>>>>>> origin/tronganh_dev
 }
